@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinnerItems">
+        <item>https://i1.wp.com/cornellsun.com/wp-content/uploads/2020/06/1591119073-screen_shot_2020-06-02_at_10.30.13_am.png?fit=700%2C652</item>
+        <item>https://images-eu.ssl-images-amazon.com/images/I/01fnVfMakPL.png</item>
+        <item>https://www.jicindia.org/wp-content/uploads/2016/10/square-xxl.png</item>
+    </string-array>
+</resources>
